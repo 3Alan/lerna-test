@@ -1,0 +1,32 @@
+{
+  "name": "@alan/projectb",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "3Alan <1540703192@qq.com>",
+  "homepage": "https://github.com/3Alan/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/projectB.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3Alan/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/3Alan/lerna-test/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
