@@ -1,6 +1,6 @@
 {
   "name": "@alan/projecta",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "projectA",
   "author": "3Alan <1540703192@qq.com>",
   "homepage": "https://github.com/3Alan/lerna-test#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/3Alan/lerna-test/issues"
   },
   "dependencies": {
-    "@alan/utils": "^0.0.0",
+    "@alan/utils": "^0.0.1",
     "react": "^17.0.2"
   }
 }
